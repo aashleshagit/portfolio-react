@@ -12,6 +12,45 @@ function Gallery() {
 
         <div className="project-card">
 
+  <div className="project-icon">
+    🔐
+  </div>
+
+  <h2>Smart Personal Password Manager</h2>
+
+  <p>
+    Secure desktop password manager for storing, managing and generating
+    passwords with encryption, authentication and password strength analysis.
+  </p>
+
+  <h3>Tech Stack</h3>
+
+  <div className="tech">
+
+    <span>Python</span>
+
+    <span>Tkinter</span>
+
+    <span>SQLite</span>
+
+    <span>bcrypt</span>
+
+    <span>Fernet</span>
+
+  </div>
+
+  <a
+    href="https://github.com/aashleshagit/Smart-Personal-Password-Manager"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <button>GitHub</button>
+  </a>
+
+</div>
+
+        <div className="project-card">
+
           <div className="project-icon">
             🤖
           </div>
